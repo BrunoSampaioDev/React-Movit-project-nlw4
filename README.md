@@ -21,8 +21,10 @@
 
 Have you ever stopped to think how long you stay on your computer screen without doing any kind of exercise? The moveit will help you in this regard, you can determine a certain time to do a physical exercise for your beautiful body.
 
-<img src="/.github/start.png" width="700" /> <img src="/.github/desafio.png" width="700" /> 
-<img src="/.github/levelup.png" width="700" /> 
+<div align="center">
+    <img src="/.github/start.png" width="700" /> <img src="/.github/desafio.png" width="700" /> 
+    <img src="/.github/levelup.png" width="700" /> 
+</div>
 
 # Techs
 
