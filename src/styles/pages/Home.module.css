@@ -17,3 +17,46 @@
     align-content: center;
 }
 
+.ContainerLogin{
+    display: flex;
+
+    background: #4953B8;
+    height: 100vh;
+
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: 1.5rem;
+}
+
+.simbolo{
+    height: 90vh;
+}
+
+.boxLogin{
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.btnLogin{
+    border: none;
+    background: #4CD62B;
+    padding: 1rem;
+    font-size: 1rem;
+    color: white;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    justify-content: center;
+}
+.iconGit{
+    font-size: 1.5rem;
+    margin-right: 10px;
+}
+
+.description{
+    width: 360px;
+    font-size: 12px;
+}
