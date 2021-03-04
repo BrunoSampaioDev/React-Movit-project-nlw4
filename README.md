@@ -28,7 +28,8 @@ Have you ever stopped to think how long you stay on your computer screen without
 
 # Techs
 
- - [Next.js](https://nextjs.org/) 
+ - [Next.js](https://nextjs.org/)
+ - [Next-Auth](https://https://next-auth.js.org/) 
  - [React.js](https://reactjs.org/)
  - [TypeScript](https://www.typescriptlang.org/)
 
